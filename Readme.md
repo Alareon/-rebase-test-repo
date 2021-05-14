@@ -1,2 +1,1 @@
-# first-repo
-First repo for learning
+Git test so fun!
